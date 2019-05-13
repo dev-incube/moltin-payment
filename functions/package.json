@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@moltin/request": "^1.6.1",
+    "@moltin/sdk": "^3.20.0",
     "firebase-admin": "latest",
-    "firebase-functions": "latest"
+    "firebase-functions": "latest",
+    "omise": "^0.5.6"
   },
   "devDependencies": {
     "eslint": "^4.12.0",
